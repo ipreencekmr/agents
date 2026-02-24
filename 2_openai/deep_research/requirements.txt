@@ -1,0 +1,13 @@
+gradio
+gradio-client
+openai
+openai-agents
+openapi-core
+openapi-spec-validator
+pydantic
+pydantic-core
+pydantic-settings
+python-dotenv
+uvicorn
+sendgrid
+nest-asyncio
